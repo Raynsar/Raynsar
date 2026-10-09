@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adifa Ar-Rayan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20UI%2FUX&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ray&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20UI%2FUX&descAlignY=60&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+things+with+Spring+Boot;Designing+interfaces+in+Figma;Turning+ideas+into+working+apps" />
 
